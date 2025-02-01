@@ -20,7 +20,7 @@ pip install markdown
 ## 🛠 How to Use
 1. **Run the script**:
    ```sh
-   python markdown_to_html_gui.py
+   python task3.py
    ```
 2. **Enter Markdown text** manually in the provided text area or **open an existing Markdown file**.
 3. Click **"Convert to HTML"** to generate the HTML preview.
